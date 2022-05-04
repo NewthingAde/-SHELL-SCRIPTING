@@ -44,7 +44,7 @@ This project is to automate some work using Shell Scripts. In other to complete 
                                     
 - Next we open the authorized_key of the user and insert the public key file in the public_key.txt
 
-                                        sudo vi /home/motun/.ssh/authorized_keys
+                                        sudo vi /home/tolu/.ssh/authorized_keys
 
 - Next we `cd` back into the root directory and we generate our gen key using the command below
 
