@@ -38,7 +38,7 @@ This project is to automate some work using Shell Scripts. In other to complete 
 
                                     sudo ls -lla /home/
                                     
-- Next i can list the files in one of the user let us take the user motun as an example
+- Next i can list the files in one of the user let us take the user tolu as an example
 
                                     sudo vi /home/tolu/ 
                                     
